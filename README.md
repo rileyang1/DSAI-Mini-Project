@@ -92,4 +92,3 @@ On top of what was taught in the CZ1115 curriculum, here's what we learnt along 
 - https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-1-regression-2520a34a502
 - https://machinelearningmastery.com/robust-scaler-transforms-for-machine-learning/
 - https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/
-- 
